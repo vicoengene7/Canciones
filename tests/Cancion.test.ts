@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { Canciones } from "../src/Canciones";
+import { Canciones } from "../src/Canciones.ts";
 
 describe("Canciones", () => {
     test("crear una cancion", () => {
